@@ -1,4 +1,4 @@
-#include <stdio.h> // directive to include 
+#include <stdio.h> // directive to include .
 
 
 int main(void)   // function run when the programs starts 
